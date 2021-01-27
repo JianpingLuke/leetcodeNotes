@@ -1,0 +1,2 @@
+# leetcodeNotes
+My leetcode diary
