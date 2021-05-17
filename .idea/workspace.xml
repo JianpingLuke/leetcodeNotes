@@ -19,16 +19,32 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="465e356c-fea2-4ef3-a4d6-63b70c4e1701" name="Default Changelist" comment="" />
+    <list default="true" id="465e356c-fea2-4ef3-a4d6-63b70c4e1701" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/SUM/src/TwoSum_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1/test1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2/test2.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1sg2RSURB20Nr95yPZdb3cqZtV4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -66,9 +82,9 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="760" y="274" key="#Project_Structure/-1920.374.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1621280021566" />
-    <state x="654" y="309" key="new project wizard" timestamp="1621280201463">
+    <state x="654" y="309" key="new project wizard" timestamp="1621280694954">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="654" y="309" key="new project wizard/-1920.374.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1621280201463" />
+    <state x="654" y="309" key="new project wizard/-1920.374.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1621280694954" />
   </component>
 </project>
