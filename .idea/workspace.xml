@@ -20,11 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="465e356c-fea2-4ef3-a4d6-63b70c4e1701" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SUM/src/TwoSum_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List/src/AddTwoNumbers_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List/src/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SlidingWindow/src/LS_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1/test1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test2/test2.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +50,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -78,13 +79,17 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="760" y="274" key="#Project_Structure" timestamp="1621280021566">
+    <state x="760" y="274" key="#Project_Structure" timestamp="1621285124606">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="760" y="274" key="#Project_Structure/-1920.374.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1621280021566" />
-    <state x="654" y="309" key="new project wizard" timestamp="1621280694954">
+    <state x="760" y="274" key="#Project_Structure/-1920.374.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1621285124606" />
+    <state x="654" y="309" key="new project wizard" timestamp="1621306555351">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="654" y="309" key="new project wizard/-1920.374.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1621280694954" />
+    <state x="654" y="309" key="new project wizard/-1920.374.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1621306555351" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1621302754956">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/-1920.374.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1621302754956" />
   </component>
 </project>
