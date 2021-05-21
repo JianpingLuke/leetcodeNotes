@@ -20,9 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d7c00b7-ac5e-4373-aa90-991a1df4dd14" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SUM/src/FourSum_18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SUM/src/ThreeSum_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List/src/RemoveNth_19.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUM/src/FourSum_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/SUM/src/FourSum_18.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
