@@ -20,8 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d7c00b7-ac5e-4373-aa90-991a1df4dd14" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/List/src/MergeKSortedList_23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlayGround/PlayGround.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlayGround/src/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlayGround/src/TestListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SUM/src/FourSum_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/SUM/src/FourSum_18.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +53,32 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.TestListNode">
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test1" />
+      <module name="PlayGround" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestListNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestListNode" />
+      <module name="PlayGround" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestListNode" />
+        <item itemvalue="Application.Test1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -74,10 +104,46 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="654" y="309" key="new project wizard" timestamp="1621363367333">
+    <state x="760" y="274" key="#Project_Structure" timestamp="1621643232992">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="654" y="309" key="new project wizard/-1920.374.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1621363367333" />
+    <state x="760" y="274" key="#Project_Structure/-1920.374.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1621643232992" />
+    <state width="2517" height="492" key="GridCell.Tab.0.bottom" timestamp="1621647137541">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.0.bottom/-1920.374.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1621647137541" />
+    <state width="2517" height="492" key="GridCell.Tab.0.center" timestamp="1621647137541">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.0.center/-1920.374.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1621647137541" />
+    <state width="2517" height="492" key="GridCell.Tab.0.left" timestamp="1621647137540">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.0.left/-1920.374.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1621647137540" />
+    <state width="2517" height="492" key="GridCell.Tab.0.right" timestamp="1621647137541">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.0.right/-1920.374.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1621647137541" />
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom" timestamp="1621647137541">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom/-1920.374.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1621647137541" />
+    <state width="2517" height="492" key="GridCell.Tab.1.center" timestamp="1621647137541">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.center/-1920.374.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1621647137541" />
+    <state width="2517" height="492" key="GridCell.Tab.1.left" timestamp="1621647137541">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.left/-1920.374.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1621647137541" />
+    <state width="2517" height="492" key="GridCell.Tab.1.right" timestamp="1621647137541">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.right/-1920.374.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1621647137541" />
+    <state x="654" y="309" key="new project wizard" timestamp="1621643206881">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="654" y="309" key="new project wizard/-1920.374.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1621643206881" />
     <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1621364154348">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
