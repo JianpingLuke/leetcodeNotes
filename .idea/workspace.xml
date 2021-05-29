@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d7c00b7-ac5e-4373-aa90-991a1df4dd14" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/List/src/N_Queen_51.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/src/Permutations_46.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/src/N_Queen_51.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/src/N_Queen_51.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,10 +148,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="654" y="309" key="new project wizard/-1920.374.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1621883612591" />
-    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1621871340915">
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1622296827048">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/-1920.374.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1621871340915" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/-1920.374.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1622296827048" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
