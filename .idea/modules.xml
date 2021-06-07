@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/PlayGround/PlayGround.iml" filepath="$PROJECT_DIR$/PlayGround/PlayGround.iml" />
       <module fileurl="file://$PROJECT_DIR$/SUM/SUM.iml" filepath="$PROJECT_DIR$/SUM/SUM.iml" />
       <module fileurl="file://$PROJECT_DIR$/SlidingWindow/SlidingWindow.iml" filepath="$PROJECT_DIR$/SlidingWindow/SlidingWindow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tree/Tree.iml" filepath="$PROJECT_DIR$/Tree/Tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/leetcodeNotes.iml" filepath="$PROJECT_DIR$/.idea/leetcodeNotes.iml" />
     </modules>
   </component>
