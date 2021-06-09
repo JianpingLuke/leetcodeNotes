@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d7c00b7-ac5e-4373-aa90-991a1df4dd14" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Tree/BTlevelOrder_102.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/ConstructBT.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +37,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1silabul277gvdG4sl32v9r0rdO" />
   <component name="ProjectLevelVcsManager">
@@ -107,69 +115,6 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="760" y="274" key="#Project_Structure" timestamp="1623096197133">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="760" y="274" key="#Project_Structure/-1920.374.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1621883618223" />
-    <state x="760" y="274" key="#Project_Structure/0.0.2560.1400/-2560.373.2560.1040@0.0.2560.1400" timestamp="1623096197133" />
-    <state x="981" y="500" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1623095665938">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="981" y="500" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400/-2560.373.2560.1040@0.0.2560.1400" timestamp="1623095665938" />
-    <state x="1060" y="406" key="FileChooserDialogImpl" timestamp="1623096179515">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="1060" y="406" key="FileChooserDialogImpl/0.0.2560.1400/-2560.373.2560.1040@0.0.2560.1400" timestamp="1623096179515" />
-    <state width="2517" height="22" key="GridCell.Tab.0.bottom" timestamp="1621873402667">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2517" height="22" key="GridCell.Tab.0.bottom/-1920.374.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1621873402667" />
-    <state width="2517" height="22" key="GridCell.Tab.0.center" timestamp="1621873402667">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2517" height="22" key="GridCell.Tab.0.center/-1920.374.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1621873402667" />
-    <state width="2517" height="22" key="GridCell.Tab.0.left" timestamp="1621873402667">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2517" height="22" key="GridCell.Tab.0.left/-1920.374.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1621873402667" />
-    <state width="2517" height="22" key="GridCell.Tab.0.right" timestamp="1621873402667">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2517" height="22" key="GridCell.Tab.0.right/-1920.374.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1621873402667" />
-    <state width="2517" height="492" key="GridCell.Tab.1.bottom" timestamp="1621873402665">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2517" height="492" key="GridCell.Tab.1.bottom/-1920.374.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1621873402665" />
-    <state width="2517" height="492" key="GridCell.Tab.1.center" timestamp="1621873402664">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2517" height="492" key="GridCell.Tab.1.center/-1920.374.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1621873402664" />
-    <state width="2517" height="492" key="GridCell.Tab.1.left" timestamp="1621873402664">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2517" height="492" key="GridCell.Tab.1.left/-1920.374.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1621873402664" />
-    <state width="2517" height="492" key="GridCell.Tab.1.right" timestamp="1621873402664">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2517" height="492" key="GridCell.Tab.1.right/-1920.374.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1621873402664" />
-    <state x="920" y="403" key="NewModule_or_Project.wizard" timestamp="1623096189640">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="920" y="403" key="NewModule_or_Project.wizard/0.0.2560.1400/-2560.373.2560.1040@0.0.2560.1400" timestamp="1623096189640" />
-    <state x="1273" y="0" width="1294" height="1407" key="dock-window-1" timestamp="1622419616669">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="1273" y="0" width="1294" height="1407" key="dock-window-1/-1920.374.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1622419616669" />
-    <state x="654" y="309" key="new project wizard" timestamp="1621883612591">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="654" y="309" key="new project wizard/-1920.374.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1621883612591" />
-    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1622311506641">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/-1920.374.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1622311506641" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
