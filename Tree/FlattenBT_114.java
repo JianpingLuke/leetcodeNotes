@@ -7,9 +7,9 @@ public class FlattenBT_114 {
         if (root.left != null) {
             TreeNode leftTail = root.left;
             while (leftTail.right != null) leftTail = leftTail.right;
-            root.right = root.left;
+            root.right = root.left; // ******** right赋值
             leftTail.right = temp;
-            root.left = null; // 不要忘了这是树，将左子树计null！
+            root.left = null; // 不要忘了这是树，将左子树计null！ ********* left 赋值
         }
     }
 }
