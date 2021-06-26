@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d7c00b7-ac5e-4373-aa90-991a1df4dd14" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DP/src/Fibonacci_509.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Preorder_N_ary_589.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/src/permutaioninString_567.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +63,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.ReverseNodes_25">
+  <component name="RunManager" selected="Application.permutaioninString_567">
     <configuration name="ReverseNodes_25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ReverseNodes_25" />
       <module name="List" />
@@ -86,8 +85,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="permutaioninString_567" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="permutaioninString_567" />
+      <module name="Array" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.permutaioninString_567" />
         <item itemvalue="Application.ReverseNodes_25" />
         <item itemvalue="Application.TestListNode" />
         <item itemvalue="Application.Test1" />
@@ -123,6 +130,16 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/List/src/MergeKSortedList_23.java</url>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Array/src/permutaioninString_567.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Array/src/permutaioninString_567.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
