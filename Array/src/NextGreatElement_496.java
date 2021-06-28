@@ -15,7 +15,7 @@ public class NextGreatElement_496 { // 可转化成看楼房问题
         return res;
     }
 
-    public int[] so2(int[] nums1, int[] nums2) {
+    public int[] so2(int[] nums1, int[] nums2) { // 反存
         int[] res = new int[nums1.length];
         Stack<Integer> s = new Stack<>();
         Map<Integer, Integer> m = new HashMap<>();
