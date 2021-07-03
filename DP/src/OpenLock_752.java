@@ -32,10 +32,10 @@ public class OpenLock_752 {
         return -1;
     }
 
-    private String turnDown(int j, String temp) {
+    private String turnDown(int j, String temp) { // 注意这里对String和char的掌控
         char[] a = temp.toCharArray();
         if (a[j] == '0') a[j] = '9';
-        else a[j]--;
+        else a[j]--; // 注意这里可以直接对char加减，数字自然会减1
         return new String(a);
     }
 
