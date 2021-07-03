@@ -20,9 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d7c00b7-ac5e-4373-aa90-991a1df4dd14" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DP/src/MinCostClimbingStairs_746.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DP/src/OpenLock_752.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlayGround/src/Test2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/src/DailyTemperatures_739.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/src/DailyTemperatures_739.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/List/ReverseNodes_25.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/List/ReverseNodes_25.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +65,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.permutaioninString_567">
+  <component name="RunManager" selected="Application.Test2">
     <configuration name="ReverseNodes_25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ReverseNodes_25" />
       <module name="List" />
@@ -74,6 +75,13 @@
     </configuration>
     <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test1" />
+      <module name="PlayGround" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test2" />
       <module name="PlayGround" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,6 +103,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test2" />
         <item itemvalue="Application.permutaioninString_567" />
         <item itemvalue="Application.ReverseNodes_25" />
         <item itemvalue="Application.TestListNode" />
