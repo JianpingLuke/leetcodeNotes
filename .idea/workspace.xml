@@ -20,7 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d7c00b7-ac5e-4373-aa90-991a1df4dd14" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Array/src/CheckK_1437.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlayGround/src/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/Deepest_Leaves_Sum_1302.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +58,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Tree" />
     <property name="project.structure.last.edited" value="Modules" />
