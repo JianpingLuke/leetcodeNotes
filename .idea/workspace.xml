@@ -20,9 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d7c00b7-ac5e-4373-aa90-991a1df4dd14" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DP/src/NthFibonacci_1137.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DP/src/CapacityToShipPackages_1011.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlayGround/src/test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlayGround/src/test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlayGround/src/test6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlayGround/src/test7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/BSTtoGST_1038.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/src/RemoveCoveredIntervals_1288.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/src/RemoveCoveredIntervals_1288.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,49 +69,49 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.CheckK_1437">
-    <configuration name="CheckK_1437" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CheckK_1437" />
-      <module name="Array" />
+  <component name="RunManager" selected="Application.CapacityToShipPackages_1011">
+    <configuration name="CapacityToShipPackages_1011" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CapacityToShipPackages_1011" />
+      <module name="DP" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseNodes_25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReverseNodes_25" />
-      <module name="List" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test2" />
+    <configuration name="test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test4" />
       <module name="PlayGround" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestListNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestListNode" />
+    <configuration name="test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test5" />
       <module name="PlayGround" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="permutaioninString_567" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="permutaioninString_567" />
-      <module name="Array" />
+    <configuration name="test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test6" />
+      <module name="PlayGround" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test7" />
+      <module name="PlayGround" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CheckK_1437" />
-        <item itemvalue="Application.Test2" />
-        <item itemvalue="Application.permutaioninString_567" />
-        <item itemvalue="Application.ReverseNodes_25" />
-        <item itemvalue="Application.TestListNode" />
+        <item itemvalue="Application.CapacityToShipPackages_1011" />
+        <item itemvalue="Application.test7" />
+        <item itemvalue="Application.test6" />
+        <item itemvalue="Application.test5" />
+        <item itemvalue="Application.test4" />
       </list>
     </recent_temporary>
   </component>
