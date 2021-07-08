@@ -57,5 +57,6 @@ public class CapacityToShipPackages_1011 {
         CapacityToShipPackages_1011 test = new CapacityToShipPackages_1011();
         int[] testExp = new int[]{3,2,2,4,1,4};
         test.shipWithinDays(testExp, 3);
+        System.out.println();
     }
 }
